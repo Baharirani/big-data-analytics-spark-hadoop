@@ -1,1 +1,1 @@
-mapreduce/README.txt
+This folder contains Hadoop MapReduce source code and logs.
